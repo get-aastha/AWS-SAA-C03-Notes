@@ -11,15 +11,8 @@ Udemy:
 
 [AWS Certified Solutions Architect Associate Training SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-on/?src=sac&kw=aws+saa) by Neal Davis - length 24 Hours
 
-A Cloud Guru:
+A Cloud Guru: [AWS Certified Solutions Architect - Associate (SAA-C03)](https://learn.acloud.guru/course/certified-solutions-architect-associate/overview) by ACloudGuru - length 44 Hour
 
-[AWS Certified Solutions Architect - Associate (SAA-C03)](https://learn.acloud.guru/course/certified-solutions-architect-associate/overview) by ACloudGuru - length 44 Hour
-
-## Table of Contents
----
-1. Introduction
-2. 
-3. 
 
 # Introduction
 ---
