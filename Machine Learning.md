@@ -3,16 +3,27 @@
 **Summary**
 
 • Rekognition : face detection, labeling, celebrity
+
 • Transcribe : audio to text (ex : subtitles)
+
 • Polly : text to audio
+
 • Translate : translations for Amazon SageMal
+
 • Lex : build conversational bots - chatbots
+
 • Connect : cloud contact center
+
 • Comprehend : natural language processing
+
 • SageMaker : machine learning for every develop
+
 • Forecast : build highly accurate forecasts
+
 • Kendra : ML-powered search engine
+
 • Personalize : real-time personalized recommendations
+
 • Textract : detect text and data in documents
 
 ## Amazon Rekognition
