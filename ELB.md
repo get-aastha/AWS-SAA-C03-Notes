@@ -17,14 +17,14 @@ users ---->    load    ----->   EC2
 
 ## Types of Load Balancers
 
-- **Application Load Balancer** (layer 7)
+- **Application Load Balancer** (layer 7 - Application Layer)
 
     - load balancing to multiple HTTP applications across machines (target grps) or same machine (container)
     - supports redirects (eg- from HTTP to HTTPS)
     - routing tables to different target grps based on rules defined by you
     - has fixed DNS name
 
-- **Network Load Balancer** (layer 4)
+- **Network Load Balancer** (layer 4 - Transport Layer)
 
     - forwards TCP and UDP traffic to your instances
     - handles millions of requests and has low latency
